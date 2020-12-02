@@ -1,3 +1,3 @@
-# Advent of Code 20XX
+# Advent of Code 2020
 
-https://adventofcode.com/20XX
+https://adventofcode.com/2020
