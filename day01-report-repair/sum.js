@@ -9,6 +9,7 @@ export const sumTo = (numbers, total = 2020) => {
             }
         }
     }
+    return []
 }
 
 export const threeSumTo = (numbers, total = 2020) => {
@@ -25,9 +26,10 @@ export const threeSumTo = (numbers, total = 2020) => {
             }
         }
     }
+    return []
 }
 
-export const multiplyEntries = entries => {
+export const multiplyEntries = (entries = []) => {
     const numbers = entries.slice()
     let multiplied = 1
     while (numbers.length > 0) {
