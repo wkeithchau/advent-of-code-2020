@@ -26,6 +26,7 @@
         "day7": "node -r esm day07-handy-haversacks/index.js",
         "day8": "node -r esm day08-handheld-halting/index.js",
         "day9": "node -r esm day09-encoding-error/index.js",
-        "day10": "node -r esm day10-adapter-array/index.js"
+        "day10": "node -r esm day10-adapter-array/index.js",
+        "day11": "node -r esm day11-seating-system/index.js"
     }
 }
